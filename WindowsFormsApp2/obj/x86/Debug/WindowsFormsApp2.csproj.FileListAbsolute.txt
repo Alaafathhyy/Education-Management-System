@@ -1,0 +1,14 @@
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.exe.config
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\x86\Debug\WindowsFormsApp2.pdb
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Login.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Regester.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.exe
+C:\Users\Omar\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\x86\Debug\WindowsFormsApp2.pdb
