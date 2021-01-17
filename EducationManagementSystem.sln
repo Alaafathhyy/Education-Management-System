@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationManagementSystem", "WindowsFormsApp2\EducationManagementSystem.csproj", "{0F261990-ED90-49C8-94F9-1EAF3AA8BDBD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationManagementSystem", "EducationManagementSystem\EducationManagementSystem.csproj", "{0F261990-ED90-49C8-94F9-1EAF3AA8BDBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
