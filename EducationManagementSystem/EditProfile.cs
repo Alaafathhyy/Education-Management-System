@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-namespace WindowsFormsApp2
+namespace EducationManagementSystem
 {
     public partial class EditProfile : Form
     {

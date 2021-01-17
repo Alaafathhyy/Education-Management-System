@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace WindowsFormsApp2
+namespace EducationManagementSystem
 {
     partial class Register
     {

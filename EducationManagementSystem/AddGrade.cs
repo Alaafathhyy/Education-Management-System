@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp2
+namespace EducationManagementSystem
 {
     public partial class AddGrade : Form
     {
